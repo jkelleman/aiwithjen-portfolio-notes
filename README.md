@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="How I built aiwithjen.com: a browser window showing the portfolio's case studies, code page and resume."></p>
+
 # aiwithjen.com
 
 My portfolio site: [aiwithjen.com](https://aiwithjen.com). The source is private. This page describes what I built and how I built it.
