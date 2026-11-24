@@ -2,13 +2,21 @@
 
 # aiwithjen.com
 
+[![Live site](https://img.shields.io/badge/live-aiwithjen.com-c2366b.svg)](https://aiwithjen.com)
+[![Next.js 16](https://img.shields.io/badge/Next.js-16-000000.svg?logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![React 19](https://img.shields.io/badge/React-19-61DAFB.svg?logo=react&logoColor=white)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Tailwind CSS v4](https://img.shields.io/badge/Tailwind%20CSS-v4-38BDF8.svg?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Hosted on Vercel](https://img.shields.io/badge/hosted%20on-Vercel-000000.svg?logo=vercel&logoColor=white)](https://vercel.com)
+
 My portfolio site: [aiwithjen.com](https://aiwithjen.com). The source is private. This page describes what I built and how I built it.
 
 I'm a conversation and content designer for AI agents. I wanted my case studies to show the work the way people actually used it: real screens, real error messages, real decision records. A static page of screenshots couldn't do that, so I designed and built the site myself.
 
 ## What's on the site
 
-- **Five case studies** covering Copilot error recovery, an autonomous data engineering agent, agentic design workflows, agent supervision patterns, and a semantic layer. All five are password protected because they include internal product work.
+- **Five password-protected case studies** covering Copilot error recovery, an autonomous data engineering agent, agentic design workflows, agent supervision patterns, and a semantic layer. They're protected because they include internal product work.
+- **A public case study** on building John Hancock's life insurance content program from zero.
 - **A Code page** that groups my open-source projects into six specialties, each with the skills it shows and a live demo or video.
 - **A web resume** with a PDF download.
 - **Writing**, which links to my essays on Medium.
